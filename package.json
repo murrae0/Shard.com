@@ -1,0 +1,11 @@
+{
+  "name": "shard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase": "^9.0.0"
+  }
+}
